@@ -1,0 +1,231 @@
+[{
+    "name": "Artisan",
+    "type": "Action - Attack",
+    "cost": 6,
+    "effect": "Gain a card to your hand costing up to 5. Put a card from your hand onto your deck.",
+    "number": 10
+},
+{
+    "name": "Bandit",
+    "type": "Action - Attack",
+    "cost": 5,
+    "effect": "Gain a Gold. Each other player reveals the top 2 cards of their deck, trashes a revealed treasure other than Copper, and discards the rest.",
+    "number": 10
+},
+{
+    "name": "Bureaucrat",
+    "type": "Action - Attack",
+    "cost": 4,
+    "effect": "Gain a Silver onto your deck. Each other player revealse a Victory card from their hand and puts it onto their deck (or revealse a hand with no Victory cards).",
+    "number": 10
+},
+{
+    "name": "Cellar",
+    "type": "Action",
+    "cost": 2,
+    "effect": "+1 Action; Discard any number of cards, then draw that many.",
+    "number": 10
+},
+{
+    "name": "Chapel",
+    "type": "Action",
+    "cost": 2,
+    "effect": "Trash up to 4 cards from your hand.",
+    "number": 10
+},
+{
+    "name": "Copper",
+    "type": "Treasure",
+    "cost": 0,
+    "worth": 1,
+    "number": 60
+},
+{
+    "name": "Council Room",
+    "type": "Action",
+    "cost": 5,
+    "effect": "+ 4 cards; + 1 buy; Each other player draws a card.",
+    "number": 10
+},
+{
+    "name": "Curse",
+    "type": "Curse",
+    "cost": 0,
+    "worth": "-1 Victory Point.",
+    "number": 30
+},
+{
+    "name": "Duchy",
+    "type": "Victory",
+    "cost": 5,
+    "worth": "3 Victory Points.",
+    "number": 12
+},
+{
+    "name": "Estate",
+    "type": "Victory",
+    "cost": 2,
+    "worth": "1 Victory Point.",
+    "number": 24
+},
+{
+    "name": "Festival",
+    "type": "Action",
+    "cost": 5,
+    "effect": "+2 actions; +1 buy; +2 coins.",
+    "number": 10
+},
+{
+    "name": "Gardens",
+    "type": "Victory",
+    "cost": 4,
+    "worth": "1 Victory Point per 10 cards you have (round down).",
+    "number": 12
+},
+{
+    "name": "Gold",
+    "type": "Treasure",
+    "cost": 6,
+    "worth": 3,
+    "number": 30
+},
+{
+    "name": "Harbinger",
+    "type": "Action",
+    "cost": 3,
+    "effect": "+1 card; +1 action; Look thorugh your discard pile. You may put a card from it onto your deck.",
+    "number": 10
+},
+{
+    "name": "Laboratory",
+    "type": "Action",
+    "cost": 5,
+    "effect": "+2 cards; +1 action.",
+    "number": 10
+},
+{
+    "name": "Library",
+    "type": "Action",
+    "cost": 5,
+    "effect": "Draw until you have 7 cards in hand, skipping any Action cards you choose to; set those aside, discarding them afterwards.",
+    "number": 10
+},
+{
+    "name": "Market",
+    "type": "Action",
+    "cost": 5,
+    "effect": "+1 card; +1 action; +1 buy; +1 coin.",
+    "number": 10
+},
+{
+    "name": "Merchant",
+    "type": "Action",
+    "cost": 3,
+    "effect": "+1 card; +1 action; The first time you play a silver this turn, + 1 coin.",
+    "number": 10
+},
+{
+    "name": "Militia",
+    "type": "Action - Attack",
+    "cost": 4,
+    "effect": "+2 coins; Each other player discards down to 3 cards in hand.",
+    "number": 10
+},
+{
+    "name": "Mine",
+    "type": "Action",
+    "cost": 5,
+    "effect": "You may trash a Treasure from your hand. Gain a Treasure to your hand costing up to 3 coins more than it.",
+    "number": 10
+},
+{
+    "name": "Moat",
+    "type": "Action - Reaction",
+    "cost": 2,
+    "effect": "+2 cards; When another player plays an Attack card, you may first reveal this from your hand, to be unaffected by it.",
+    "number": 10
+},
+{
+    "name": "Moneylender",
+    "type": "Action",
+    "cost": 4,
+    "effect": "You may trash a Copper from your hand for +3 coins.",
+    "number": 10
+},
+{
+    "name": "Poacher",
+    "type": "Action",
+    "cost": 4,
+    "effect": "+1 card; +1 action; +1 coin; Discard a card per empty supply pile.",
+    "number": 20
+},
+{
+    "name": "Province",
+    "type": "Victory",
+    "cost": 8,
+    "worth": "6 Victory Points",
+    "number": 12
+},
+{
+    "name": "Remodel",
+    "type": "Action",
+    "cost": 4,
+    "effect": "Trash a card from your hand. Gain a card costing up to 2 coins more than it.",
+    "number": 10
+},
+{
+    "name": "Sentry",
+    "type": "Action",
+    "cost": 5,
+    "effect": "+1 card; +1 action; Look at the top 2 cards of your deck. Trash and/or discard any number of them. Put the rest back on top in any order.",
+    "number": 10
+},
+{
+    "name": "Silver",
+    "type": "Treasure",
+    "cost": 3,
+    "worth": 2,
+    "number": 40
+},
+{
+    "name": "Smithy",
+    "type": "Action",
+    "cost": 4,
+    "effect": "+3 cards.",
+    "number": 10
+},
+{
+    "name": "Throne Room",
+    "type": "Action",
+    "cost": 4,
+    "effect": "You may play an Action card from your hand twice.",
+    "number": 10
+},
+{
+    "name": "Vassal",
+    "type": "Action",
+    "cost": 3,
+    "effect": "+2 coins; Discard the top card of your deck. If it's an Action, you may play it.",
+    "number": 10
+},
+{
+    "name": "Village",
+    "type": "Aciton",
+    "cost": 3,
+    "effect": "+1 card; +2 actions.",
+    "number": 10
+},
+{
+    "name": "Witch",
+    "type": "Action - Attack",
+    "cost": 5,
+    "effect": "+2 cards; Each other player gains a Curse.",
+    "number": 10
+},
+{
+    "name": "Workshop",
+    "type": "Action",
+    "cost": 3,
+    "effect": "Gain a card costing up to 4 coins.",
+    "number": 10
+}]
